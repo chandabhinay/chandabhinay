@@ -1,5 +1,5 @@
-#Chanda Abhinay
-#IIT Mandi
+#Chanda Abhinay\n
+#IIT Mandi\n
 #Electrical Engineering
 
 <!---
