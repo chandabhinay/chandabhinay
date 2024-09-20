@@ -1,6 +1,6 @@
-#Chanda Abhinay\n
-#IIT Mandi\n
-#Electrical Engineering
+# Chanda Abhinay
+# IIT Mandi
+# Electrical Engineering
 
 <!---
 chandabhinay/chandabhinay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
